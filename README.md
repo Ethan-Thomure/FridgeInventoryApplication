@@ -1,4 +1,6 @@
 # Fridge Inventory Application
+![fridge-inventory-application](https://github.com/user-attachments/assets/9df4c418-9cfe-4eb5-b1ff-4f9e71c41b5a)
+
 This was a college final project.
 The application contains a database filled with items representing a fridge's contents, it has:
 
