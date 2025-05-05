@@ -1,5 +1,5 @@
 # Fridge Inventory Application
-This was a college final project (which is why some files are named strangely)
+This was a college final project
 The application contains a database filled with items representing a fridge's contents, it has:
 
 - a name
